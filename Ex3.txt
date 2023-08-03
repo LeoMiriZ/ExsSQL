@@ -45,11 +45,6 @@ inner join loc_cargo on loc_funcionario.Cd_Cargo = loc_cargo.Cd_Cargo
 group by Nm_Cargo
 having avg (Vl_Salario) < 5000;
 
--- Exercício 8 (não consegui)
-
--- Exercício 9 (não consegui)
-
--- Exercício 10 (não consegui)
 
 
 
